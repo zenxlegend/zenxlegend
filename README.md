@@ -1,0 +1,2 @@
+- im an actual beast
+- never programmed in my life, currently learning C in school and am looking to learn CSS and HTML
